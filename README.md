@@ -15,7 +15,9 @@ To get started, you can follow these steps:
 1. Create a Catkin workspace.
 2. Use the commands provided in this link ([https://github.com/smart-methods/arduino_robot_arm)
 4. Launch Rviz by running the command "$ roslaunch robot_arm_pkg check_motors.launch".
-5. Launch Gasebo by running the command $ roslaunch moveit_pkg demo_gazebo.launch
+5. Launch Gasebo by running the command "$ roslaunch robot_arm_pkg check_motors_gazebo.launch". 
+<img width="589" alt="RViz" src="https://github.com/AtheerAldawsari1/Robot-Arm/assets/139083849/945103d3-1e2a-46fe-b476-f9604e47991a">
+<img width="779" alt="gazebo" src="https://github.com/AtheerAldawsari1/Robot-Arm/assets/139083849/7e1d4f9d-d647-4c04-884a-a1b26489751d">
 
 
 ## Contact
